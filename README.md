@@ -73,7 +73,7 @@ The application creates `transactions.csv` automatically when transactions are s
 ## Project Structure
 
 ```text
-InternNova_Week6/
+Smart-Expense-Tracker/
 ├── main.py
 ├── README.md
 ├── .gitignore
